@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF6B35</color>      <!-- 温暖的橙色作为主色调 -->
+    <color name="neutral">#F7F7F7</color>      <!-- 浅灰色背景 -->
+    <color name="dark">#292F36</color>         <!-- 深灰色文本 -->
+    <color name="gray_500">#9CA3AF</color>     <!-- 中灰色文本 -->
+</resources>
